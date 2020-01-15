@@ -1,0 +1,86 @@
+body {
+    background-color: lightblue;
+}
+section {
+    margin: 10px 0;
+    padding: 15px;
+    min-height: 50px;
+
+}
+
+h1.game-title {
+    background-color: orangered;
+    color: white;
+    font-size: 30px;
+    width: 400px;
+    padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.rules {
+    width: 50%;
+    background-color: antiquewhite;
+    color: green;
+    padding: 30px;
+}
+.computer-number {
+    background-color: green;
+    width: 200px;
+    height: 50px;
+    color: black;
+    float: left;
+    padding: 10px;
+    margin-right: 50px;
+}
+.computer-number h2 {
+    font-size: 50px;
+}
+
+.wins-losses {
+    background-color: yellow;
+    width: 100px;
+    height: 50px;
+    color: black;
+    float: left;
+    padding: 10px;
+}
+
+.crystal-section {
+    height: 150px;
+    margin-top: 10px;
+}
+
+.crystal-section div {
+    width: 100px;
+    height: 100px;
+    float: left;
+    padding: 5px;
+}
+.crystal-section div img {
+    width: 100px;
+    height: 100px;
+    
+}
+.user-score div {
+    padding: 20px;
+    background-color: teal;
+    color: white;
+}
+.user-score .total-score {
+    width: 200px;
+    height: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+  
+
+}
+.user-score .score-number {
+    width: 200px;
+    height: 100px;
+    
+}
+.score-number h2 {
+    font-size: 50px;
+}
